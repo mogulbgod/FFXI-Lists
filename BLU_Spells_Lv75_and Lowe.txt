@@ -1,0 +1,110 @@
+1 - Sandspin
+1 - Pollen
+1 - Foot Kick
+4 - Power Attack
+4 - Sprout Smack
+4 - Wild Oats
+8 - Metallic Body
+8 - Cocoon
+8 - Queasyshroom
+12 - Battle Dance
+12 - Head Butt
+12 - Feather Storm 
+16 - Helldive
+16 - Healing Breeze
+16 - Sheep Song
+18 - Bludgeon
+18 - Cursed Sphere
+18 - Blastbomb
+20 - Blood Drain
+20 - Claw Cyclone
+22 - Poison Breath
+24 - Soporific
+26 - Screwdriver
+28 - Bomb Toss
+30 - Wild Carrot
+30 - Grand Slam
+32 - Sound Blast
+32 - Chaotic Eye
+34 - Death Ray
+34 - Smite of Rage
+36 - Digest
+36 - Pinecone Bomb
+38 - Blank Gaze
+38 - Jet Stream
+38 - Uppercut
+40 - Mysterious Light
+40 - Terror Touch
+42 - Venom Shell
+42 - MP Drainkiss
+44 - Blitzstrahl
+44 - Stinking Gas
+44 - Mandibular Bite
+46 - Magnetite Cloud
+46 - Geist Wall
+46 - Awful Eye
+48 - Refueling
+48 - Blood Saber
+48 - Sickle Slash
+48 - Jettatura
+50 - Ice Break
+50 - Self-Destruct
+50 - Frightful Roar
+52 - Cold Wave
+52 - Filamented Hold
+54 - Hecatomb Wave
+54 - Radiant Breath
+56 - Feather Barrier
+58 - Magic Fruit
+58 - Flying Hip Press
+58 - Light of Penance
+60 - Dimensional Death
+60 - Spiral Spin
+61 - Maelstrom
+61 - Eyes On Me
+61 - Seedspray
+61 - Bad Breath
+62 - Memento Mori
+62 - Body Slam
+62 - 1000 Needles
+63 - Spinal Cleave
+63 - Frenetic Rip
+63 - Frypan
+63 - Hydro Shot
+64 - Feather Tickle
+64 - Yawn
+64 - Voracious Trunk
+65 - Infrasonics
+65 - Zephyr Mantle
+66 - Frost Breath
+66 - Sandspray
+66 - Corrosive Ooze
+67 - Diamondhide
+67 - Enervation
+68 - Warm-Up
+68 - Firespit
+69 - Tail Slap
+69 - Hysteric Barrage
+69 - Regurgitation
+70 - Amplification
+70 - Cannonball
+70 - Asuran Claws
+71 - Lowing
+71 - Heat Breath
+71 - Triumphant Roar
+72 - Disseverment
+72 - Sub-zero Smash
+72 - Saline Coat
+73 - Ram Charge
+73 - Mind Blast
+73 - Temporal Shift
+74 - Actinic Burst
+74 - Magic Hammer
+74 - Reactor Cool
+75 - Exuviation
+75 - Plasma Charge
+75 - Vertical Cleave
+76 - Plenilune Embrace
+77 - Acrid Stream
+77 - Leafstorm
+
