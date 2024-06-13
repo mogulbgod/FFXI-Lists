@@ -1,4 +1,4 @@
-Rolls = T{ --Name,1,2,3,4,5,6,7,8,9,10,11,12,roll+1,mod, mod amt,good luck, bad luck
+Rolls = T{ --Name,effect,1,2,3,4,5,6,7,8,9,10,11,12,roll+1,mod, mod amt,good luck, bad luck
 {'Fighter\'s Roll','Double Attack Rate',1,2,3,4,10,5,6,6,1,7,15,0,1,'WAR',5,5,9},
 {'Monk\'s Roll','Subtle Blow',8,10,32,12,14,16,4,20,22,24,40,-10,4,'MNK',10,3,7},{'Healer\'s Roll','Cure Potency Received',3,4,12,5,6,7,1,8,9,10,16,-4,1,'WHM',4,3,7},{'Corsair\'s Roll','XP/CP/EP Points',10,11,11,12,20,13,15,16,8,17,24,-6,2,'COR',5,5,9},{'Ninja Roll','Evasion','Acc/R.Acc',10,13,15,40,18,20,25,5,28,30,50,-15,5,'NIN',15,4,8},
 {'Hunter\'s Roll',10,13,15,40,18,20,25,5,28,30,50,-15,5,'RNG',15,4,8},{'Chaos Roll','ATK/R.ATK',6.25,7.81,9.37,25,10.93,12.5,15,62,3.12,17.18,18.75,31.25,-9.76,3.12,'DRK',9.76,4,8},{'Magus\'s Roll','Magic Defense Bonus',5,20,6,8,9,3,10,13,14,15,25,-8,2,'BLU',8,2,6},{'Drachen Roll','Pet Acc/R.Acc',10,13,15,40,18,20,25,5,28,30,50,0,5,'DRG',15,4,8},{'Choral Roll','Spell Interupt Rate',-8,-42,-11,-15,-19,-4,-23,-27,-31,-35,-50,25,-4,'BRD',-25,2,6},
@@ -7,4 +7,4 @@ Rolls = T{ --Name,1,2,3,4,5,6,7,8,9,10,11,12,roll+1,mod, mod amt,good luck, bad 
 {'Naturalist\'s Roll','Enhancing Magic Duration',6,7,15,8,9,10,5,11,12,13,20,-5,1,'GEO',5,3,7},{'Runeist\'s Roll','Magic Evasion',10,13,15,40,18,20,25,5,28,30,50,-15,5,'RUN',15,4,8},{'Bolter\'s Roll','Movement Speed',6,6,16,8,8,10,10,12,4,14,20,0,4,null,null3,9},{'Caster\'s Roll','Fast Cast',6,15,7,8,9,10,5,11,12,13,20,-10,3,null,10,2,7},{'Courser\'s Roll','Snapshot',2,3,11,4,5,6,7,8,1,10,12,-3,1,null,3,3,9},
 {'Blitzer\'s Roll','Delay Reduction',2,3,11,4,5,6,7,8,1,10,12,-3,1,null,3,4,9},{'Tactician\'s Roll','Regain',10,10,10,10,30,10,10,0,20,20,40,-10,2,null,10,5,8},{'Allies\' Roll','Skillchain DMG/Acc',2,3,20,5,7,9,11,13,15,1,25,-5,1,null,5,3,10},{'Miser\'s Roll','Save TP',30,50,70,90,200,110,20,130,150,170,250,0,15,null,null,5,7},
 {'Companion\'s Roll','Pet Regain/Regen','20TP/4HP','50TP/20HP','20TP/6HP','20TP/8HP','30TP/10HP','30TP/12HP','30TP/14HP','40TP/16HP','40TP/18HP','10TP/3HP','60TP/25HP','0TP/0HP','5TP/2HP',null,null,2,10},
-{'Avenger\'s Roll','Counter Rate',0,0,0,14,0,0,0,0,0,0,16,0,0,null,null,4,8},}; -- {name,lucky,unlucky}
+{'Avenger\'s Roll','Counter Rate',0,0,0,14,0,0,0,0,0,0,16,0,0,null,null,4,8},};
